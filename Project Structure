@@ -1,0 +1,13 @@
+churn_prediction_app/
+│
+├── app.py
+├── model/
+│   ├── churn_model.pkl
+│   └── scaler.pkl
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── preprocessing.ipynb
+├── requirements.txt
+├── README.md
