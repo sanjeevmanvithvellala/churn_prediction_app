@@ -1,9 +1,8 @@
 churn_prediction_app/
 │
 ├── app.py
-├── model/
-│   ├── churn_model.pkl
-│   └── scaler.pkl
+├── churn_model.pkl
+│── scaler.pkl
 ├── templates/
 │   └── index.html
 ├── static/
